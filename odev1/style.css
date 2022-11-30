@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    margin: auto;
+    text-align: justify;
+    width: 1000px;
+}
+.sarmal {
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+}
+
+h1 {
+    font-size: 40px;
+    color: aqua;
+}
+h2{
+    font-size: 35px;
+    color: aqua;
+}
+h3{
+    font-size: 30px;
+    color: aqua;
+}
+h4{
+    font-size: 25px;
+    color: aqua;
+}
+
+p, ul, ol {
+    font-size: 20px;
+    color: antiquewhite;
+}
+li{
+    font-size: 20px;
+    color: aqua;
+}
+
+
